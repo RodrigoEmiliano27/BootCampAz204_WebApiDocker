@@ -1,0 +1,6 @@
+@BootCampAz204_WebApiDocker_HostAddress = http://localhost:5191
+
+GET {{BootCampAz204_WebApiDocker_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
